@@ -15,7 +15,7 @@ On succesfull creation of the markdown file a notification is displayed.
 Next steps:
 
 - Download the zip file or clone this repository.
-- Run it from the Script Editor to test the script in your environment.
+- Run it from the Script Editor to test the script in your environment, don't forget to set the language to JavaScript.
 
 Once you made sure it works on your system you can:
 
