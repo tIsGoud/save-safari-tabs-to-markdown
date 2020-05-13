@@ -31,6 +31,7 @@ I went for the last option 😉
 Saving browser-tabs is a recurring scripting item, below some links to other scripts to save browser-tabs from Chrome or Safari:
 
 - [Save Google Chrome tabs to a markdown file](https://github.com/tIsGoud/save-chrome-tabs-to-markdown)
+- [Save Iridium tabs to a markdown file](https://github.com/tIsGoud/save-iridium-tabs-to-markdown)
 - [Save Google Chrome tabs in a Bear note.](https://github.com/tIsGoud/save-chrome-tabs-to-bear)
 - [Save Safari tabs in a Bear note.](https://github.com/tIsGoud/save-safari-tabs-to-bear)
 - [Save Chrome tabs in a Day One 2 entry.](https://github.com/tIsGoud/save-chrome-tabs-to-day-one)
